@@ -20,9 +20,7 @@
   - [Instalação](#instalação)  
   - [Execução](#execução)  
 - [🗂 Estrutura do Projeto](#-estrutura-do-projeto)  
-- [🤝 Contribuição](#-contribuição)  
-- [📝 Licença](#-licença)  
-- [📬 Contato](#-contato)
+- [🤝 Contribuição](#-contribuição)   
 
 ---
 
