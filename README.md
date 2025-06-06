@@ -63,19 +63,4 @@
 
 ---
 
-## 🚀 Como Executar
 
-### Pré-requisitos
-
-Antes de começar, verifique se você possui instalado em sua máquina:
-
-- Java Development Kit (JDK) 11 ou superior  
-- Git  
-- Maven (caso opte por usar o pom.xml)  
-
-### Instalação
-
-1. **Clone este repositório**  
-   ```bash
-   git clone https://github.com/SEU_USUARIO/ChessJavaApp.git
-   cd ChessJavaApp
