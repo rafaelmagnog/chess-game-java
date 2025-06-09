@@ -1,5 +1,4 @@
-// Posicao.java
-package br.edu.seuProjeto.xadrez;
+package main.chess;
 
 public class Posicao {
     private int linha;    // 1..8
