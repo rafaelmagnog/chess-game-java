@@ -1,5 +1,4 @@
-// Movimento.java
-package br.edu.seuProjeto.xadrez;
+package main.chess;
 
 public class Movimento {
     private Posicao origem, destino;
