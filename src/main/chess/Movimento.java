@@ -2,8 +2,6 @@ package main.chess;
 
 public class Movimento {
 
-
-
     private Posicao origem, destino;
     private Peca peca, pecaCapturada;
 
