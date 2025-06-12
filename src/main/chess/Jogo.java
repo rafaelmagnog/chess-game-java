@@ -269,7 +269,7 @@ public class Jogo {
                     System.out.printf("%3s", p.getSymbol());
                     System.out.print(ANSI.RESET);
                 } else {
-                    System.out.printf("%3s", "--");
+                    System.out.printf("%3s", "-");
                 }
             }
             System.out.println();
