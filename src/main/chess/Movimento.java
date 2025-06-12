@@ -19,6 +19,5 @@ public class Movimento {
         return true;
     }
     public Peca getPecaCapturada() { return pecaCapturada; }
-    public Posicao getOrigem() { return origem; }
-    public Posicao getDestino() { return destino; }
+
 }
