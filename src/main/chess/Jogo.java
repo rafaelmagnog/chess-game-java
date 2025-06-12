@@ -41,7 +41,7 @@ public class Jogo {
         while (!fimDeJogo) {
             imprimirTabuleiro();
             Jogador atual = jogadores.get(idxAtual);
-            System.out.print("\nOrigem -> Destinho (ex: e2 e3)\nTurno de: " + atual.getNome() + " (" + atual.getCor() + ")> ");
+            System.out.print("\nOrigem -> Destino (ex: e2 e3)\nTurno de: " + atual.getNome() + " (" + atual.getCor() + ")> ");
             String linha = sc.nextLine().trim().toLowerCase();
             if (linha.equals("sair")) { fimDeJogo = true; System.out.println("Partida encerrada."); break; }
             String[] partes = linha.split("\\s+");
